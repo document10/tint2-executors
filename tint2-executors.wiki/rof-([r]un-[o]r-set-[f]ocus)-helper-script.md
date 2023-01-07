@@ -1,0 +1,1 @@
+The script may be useful to avoid launching multiple instances of the same window in Tint2 executor mouse event commands. It was separated as [another GitHub project](https://github.com/nwg-piotr/rof), and also published in AUR as the [rof-git](https://aur.archlinux.org/packages/rof-git) package.
